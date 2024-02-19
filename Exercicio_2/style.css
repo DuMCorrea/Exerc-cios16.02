@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .multiplos-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .multiplos-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .multiplos-list li {
+    margin-bottom: 5px;
+  }
